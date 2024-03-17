@@ -1,0 +1,8 @@
+Sidenav >
+  Scroller[
+    axis    = 'Y'
+    enabled = "true"
+  ] >
+    { comment } +
+    SidenavMenus +
+    .flex.flex--vstack#sidenav-footer(Copyright 2024)

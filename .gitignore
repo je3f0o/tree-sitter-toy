@@ -1,0 +1,21 @@
+# Node Modules
+node_modules
+
+# Craps
+*.gyp
+*.toml
+*.dSYM
+
+# Vim swap files
+*.swp
+*.swo
+
+# HTML
+html/bindings
+html/src
+
+# jeefo_template
+jt/.ycm_extra
+jt/package.json
+jt/bindings
+jt/program
